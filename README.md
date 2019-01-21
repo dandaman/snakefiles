@@ -3,7 +3,7 @@
 Initially written by Kamil Slowikowski
 https://github.com/slowkow/snakefiles
 
-Adapted by [Daniel Lang][@daniel.lang]
+Adapted by [Daniel Lang](@daniel.lang)
 
 
 # Requirements:
