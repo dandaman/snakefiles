@@ -1,0 +1,39 @@
+import json
+import pandas as pd
+import warnings
+from pathlib import Path
+
+tables = json.load(open("input.json"))
+
+rule all:
+	input:
+		"../samples.json"
+
+rule tab2samples:
+	input:
+		tables.keys()
+	output:
+		"../samples.json"
+	run:
+		out=dict()
+		for f in input:
+			fspec=tables[f]
+			d=pd.read_csv(f,sep=fspec["delimiter"])
+			for i,r in d.iterrows():
+				sample=r.loc[fspec["sample"]]
+				path=fspec["path"].rstrip("/")
+				R1=fspec["R1"].format(acc=sample)
+				R2=fspec["R2"].format(acc=sample)
+				R1="{p}/{r}".format(p=path,r=R1)
+				R2="{p}/{r}".format(p=path,r=R2)
+				data={
+					"R1":R1,
+					"R2":R2
+				}
+				if not Path(R1).exists():
+					warnings.warn("R1 {f} does not exist!".format(f=R1),category=Warning)
+				if not Path(R2).exists():
+					warnings.warn("R2 {f} does not exist!".format(f=R2),category=Warning)
+				out[sample]=data
+		with open(output[0], "w") as write_file:
+			json.dump(out,write_file,indent=4)
