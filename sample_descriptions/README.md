@@ -1,5 +1,7 @@
 # Generate samples.json from metadata tables
 
+[Daniel Lang](@daniel.lang)
+
 Simple workflow to create a `samples.json` from variable metadata tables
 
 ## Usage
