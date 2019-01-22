@@ -55,27 +55,14 @@ def rstrip(text, suffix):
 
 # Rules -----------------------------------------------------------------------
 
-localrules: all, unzip_transcriptome, kallisto_index, zip_transcriptome, collate_kallisto, n_processed
+localrules: all, kallisto_index, collate_kallisto, n_processed
 
 rule all:
 	input:
 		'abundance.tsv.gz',
 		'n_processed.tsv.gz',
-		CDNA + ".gz",
 		expand(join(OUT_DIR, '{sample}', 'abundance.tsv.gz'), sample=SAMPLES)
 
-rule unzip_transcriptome:
-	input:
-		CDNA + ".gz"
-	output:
-		CDNA
-	benchmark:
-		"benchmarks/gunzip.txt"
-	log:
-		'log/unzip_transcriptome.log'
-	shell:
-		"gunzip {input}"
-	
 rule kallisto_index:
 	input:
 		cdna = CDNA
@@ -98,19 +85,7 @@ rule kallisto_index:
 			  ' {input.cdna}'
 			  ' >> {log} 2>&1')
 
-rule zip_transcriptome:
-	input:
-		cdna = CDNA,
-		index = join(dirname(CDNA), 'kallisto', rstrip(basename(CDNA), '.fa'))
-	output:
-		CDNA + ".gz"
-	benchmark:
-		"benchmarks/gzip.txt"
-	log:
-		'log/zip_transcriptome.log'
-	shell:
-		"gzip {input.cdna}"
-	
+
 rule kallisto_quant:
 	input:
 		r1 = lambda wildcards: FILES[wildcards.sample]['R1'],

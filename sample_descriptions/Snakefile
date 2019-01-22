@@ -27,8 +27,8 @@ rule tab2samples:
 				R1="{p}/{r}".format(p=path,r=R1)
 				R2="{p}/{r}".format(p=path,r=R2)
 				data={
-					"R1":R1,
-					"R2":R2
+					"R1":[R1],
+					"R2":[R2]
 				}
 				if not Path(R1).exists():
 					warnings.warn("R1 {f} does not exist!".format(f=R1),category=Warning)
