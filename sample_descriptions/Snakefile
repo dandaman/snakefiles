@@ -19,6 +19,7 @@ rule tab2samples:
 		"samples.csv"
 	run:
 		cols=["run","sample","experiment","study"]
+		cols2=["run","sample","experiment","study"]
 		out=dict()
 		out2=list()
 		for f in input:
@@ -43,8 +44,6 @@ rule tab2samples:
 				R2=fspec["R2"].format(acc=run)
 				R1="{p}/{r}".format(p=path,r=R1)
 				R2="{p}/{r}".format(p=path,r=R2)
-				other["R1"]=R1
-				other["R2"]=R2
 				data={
 					"R1":[R1],
 					"R2":[R2]
