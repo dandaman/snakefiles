@@ -1,14 +1,20 @@
 {
 	"ena.txt":{
 		"path":"/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/",
-		"sample":"run_accession",
+		"run":"run_accession",
+		"sample":"sample_accession",
+		"experiment":"experiment_accession",
+		"study":"study_accession",
 		"R1": "{acc}_1.fastq.gz",
 		"R2":"{acc}_2.fastq.gz",
 		"delimiter":"\t"
 	},
 	"our_data.txt":{
 		"path":"/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/",
-		"sample":"ID",
+		"run":"ID",
+		"sample":"Sample",
+		"experiment":"GT",
+		"study":"fixed_string::PpDEK1",
 		"R1":"{acc}_R1.fastq.gz",
 		"R2":"{acc}_R2.fastq.gz",
 		"delimiter":"\t"
