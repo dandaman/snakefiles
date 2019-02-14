@@ -55,27 +55,13 @@ def rstrip(text, suffix):
 
 # Rules -----------------------------------------------------------------------
 
-localrules: all, unzip_transcriptome, kallisto_index, zip_transcriptome, collate_kallisto, n_processed
+localrules: all, kallisto_index, collate_kallisto, n_processed
 
 rule all:
 	input:
 		'abundance.tsv.gz',
 		'n_processed.tsv.gz',
-		CDNA + ".gz",
 		expand(join(OUT_DIR, '{sample}', 'abundance.tsv.gz'), sample=SAMPLES)
-
-rule unzip_transcriptome:
-	input:
-		CDNA + ".gz"
-	output:
-		CDNA
-	benchmark:
-		"benchmarks/gunzip.txt"
-	shell:
-		"gunzip {input}"
-	log:
-		'log/unzip_transcriptome.log'
-
 
 rule kallisto_index:
 	input:
@@ -99,18 +85,6 @@ rule kallisto_index:
 			  ' {input.cdna}'
 			  ' >> {log} 2>&1')
 
-rule zip_transcriptome:
-	input:
-		cdna = CDNA,
-		index = join(dirname(CDNA), 'kallisto', rstrip(basename(CDNA), '.fa'))
-	output:
-		CDNA + ".gz"
-	benchmark:
-		"benchmarks/gzip.txt"
-	shell:
-		"gzip {input.cdna}"
-	log:
-		'log/zip_transcriptome.log'
 
 rule kallisto_quant:
 	input:
@@ -128,6 +102,8 @@ rule kallisto_quant:
 		4
 	resources:
 		mem = 4000
+	log:
+		'log/kallisto_quant.{sample}.log'
 	run:
 		fastqs = ' '.join(chain.from_iterable(zip(input.r1, input.r2)))
 		shell('kallisto quant' +
@@ -136,10 +112,7 @@ rule kallisto_quant:
 			' --index={input.index}' +
 			' --output-dir=' + join(OUT_DIR, '{wildcards.sample}') +
 			' ' + fastqs)
-	log:
-		'log/kallisto_quant.{sample}.log'
-
-
+	
 rule collate_kallisto:
 	input:
 		expand(join(OUT_DIR, '{sample}', 'abundance.tsv'), sample=SAMPLES)
@@ -147,6 +120,8 @@ rule collate_kallisto:
 		'abundance.tsv.gz'
 	benchmark:
 		"benchmarks/collate.txt"
+	log:
+		'log/collate_kallisto.log'
 	run:
 		import gzip
 
@@ -169,10 +144,7 @@ rule collate_kallisto:
 					fields = line.strip().split('\t')
 					if float(fields[4]) > 0:
 						out.write(b(sample + '\t' + line))
-	log:
-		'log/collate_kallisto.log'
-
-
+	
 rule n_processed:
 	input:
 		expand(join(OUT_DIR, '{sample}', 'run_info.json'), sample=SAMPLES)
@@ -180,6 +152,8 @@ rule n_processed:
 		'n_processed.tsv.gz'
 	benchmark:
 		'benchmarks/n_processed.txt'
+	log:
+		'log/n_processed.log'
 	run:
 		import json
 		import gzip
@@ -193,10 +167,7 @@ rule n_processed:
 				sample = basename(dirname(f))
 				n = json.load(open(f)).get('n_processed')
 				out.write(b('{}\t{}\n'.format(sample, n)))
-	log:
-		'log/n_processed.log'
-
-
+	
 rule gzip_abundances:
 	input:
 		'abundance.tsv.gz',
@@ -204,8 +175,9 @@ rule gzip_abundances:
 		expand(join(OUT_DIR, '{sample}', 'abundance.tsv'), sample=SAMPLES)
 	output:
 		expand(join(OUT_DIR, '{sample}', 'abundance.tsv.gz'), sample=SAMPLES)
+	log:
+		'log/gzip_abundances.log'
 	run:
 		for f in input:
 			shell("gzip {file}".format(file=f))
-	log:
-		'log/gzip_abundances.{sample}.log'
+	

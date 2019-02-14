@@ -1,20 +1,2986 @@
 {
-    "Sample1": {
+    "SRR787291": {
         "R1": [
-            "data/fastq/Sample1.R1.fastq.gz"
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR787291_1.fastq.gz"
         ],
         "R2": [
-            "data/fastq/Sample1.R2.fastq.gz"
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR787291_2.fastq.gz"
         ]
     },
-    "Sample2": {
+    "SRR787292": {
         "R1": [
-            "data/fastq/Sample2.L1.R1.fastq.gz",
-            "data/fastq/Sample2.L2.R1.fastq.gz"
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR787292_1.fastq.gz"
         ],
         "R2": [
-            "data/fastq/Sample2.L1.R2.fastq.gz",
-            "data/fastq/Sample2.L2.R2.fastq.gz"
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR787292_2.fastq.gz"
+        ]
+    },
+    "SRR787293": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR787293_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR787293_2.fastq.gz"
+        ]
+    },
+    "SRR787294": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR787294_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR787294_2.fastq.gz"
+        ]
+    },
+    "SRR787295": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR787295_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR787295_2.fastq.gz"
+        ]
+    },
+    "SRR790623": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790623_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790623_2.fastq.gz"
+        ]
+    },
+    "SRR790624": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790624_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790624_2.fastq.gz"
+        ]
+    },
+    "SRR790625": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790625_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790625_2.fastq.gz"
+        ]
+    },
+    "SRR790254": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790254_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790254_2.fastq.gz"
+        ]
+    },
+    "SRR790259": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790259_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790259_2.fastq.gz"
+        ]
+    },
+    "SRR790261": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790261_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790261_2.fastq.gz"
+        ]
+    },
+    "SRR790660": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790660_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790660_2.fastq.gz"
+        ]
+    },
+    "SRR790662": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790662_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790662_2.fastq.gz"
+        ]
+    },
+    "SRR790663": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790663_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR790663_2.fastq.gz"
+        ]
+    },
+    "SRR1798064": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798064_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798064_2.fastq.gz"
+        ]
+    },
+    "SRR1798065": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798065_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798065_2.fastq.gz"
+        ]
+    },
+    "SRR1798066": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798066_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798066_2.fastq.gz"
+        ]
+    },
+    "SRR1798067": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798067_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798067_2.fastq.gz"
+        ]
+    },
+    "SRR1798068": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798068_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798068_2.fastq.gz"
+        ]
+    },
+    "SRR1798069": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798069_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798069_2.fastq.gz"
+        ]
+    },
+    "SRR1798070": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798070_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798070_2.fastq.gz"
+        ]
+    },
+    "SRR1798071": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798071_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798071_2.fastq.gz"
+        ]
+    },
+    "SRR1798072": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798072_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798072_2.fastq.gz"
+        ]
+    },
+    "SRR1798073": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798073_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798073_2.fastq.gz"
+        ]
+    },
+    "SRR1798074": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798074_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798074_2.fastq.gz"
+        ]
+    },
+    "SRR1798075": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798075_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798075_2.fastq.gz"
+        ]
+    },
+    "SRR1798076": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798076_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798076_2.fastq.gz"
+        ]
+    },
+    "SRR1798077": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798077_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798077_2.fastq.gz"
+        ]
+    },
+    "SRR1798078": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798078_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798078_2.fastq.gz"
+        ]
+    },
+    "SRR1798079": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798079_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798079_2.fastq.gz"
+        ]
+    },
+    "SRR1798080": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798080_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798080_2.fastq.gz"
+        ]
+    },
+    "SRR1798081": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798081_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798081_2.fastq.gz"
+        ]
+    },
+    "SRR1798082": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798082_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798082_2.fastq.gz"
+        ]
+    },
+    "SRR1798083": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798083_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798083_2.fastq.gz"
+        ]
+    },
+    "SRR1798084": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798084_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798084_2.fastq.gz"
+        ]
+    },
+    "SRR1798085": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798085_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798085_2.fastq.gz"
+        ]
+    },
+    "SRR1798086": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798086_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798086_2.fastq.gz"
+        ]
+    },
+    "SRR1798087": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798087_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798087_2.fastq.gz"
+        ]
+    },
+    "SRR1798088": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798088_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798088_2.fastq.gz"
+        ]
+    },
+    "SRR1798089": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798089_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1798089_2.fastq.gz"
+        ]
+    },
+    "SRR1589647": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589647_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589647_2.fastq.gz"
+        ]
+    },
+    "SRR1589648": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589648_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589648_2.fastq.gz"
+        ]
+    },
+    "SRR1589649": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589649_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589649_2.fastq.gz"
+        ]
+    },
+    "SRR1589650": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589650_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589650_2.fastq.gz"
+        ]
+    },
+    "SRR1589651": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589651_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589651_2.fastq.gz"
+        ]
+    },
+    "SRR1589652": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589652_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589652_2.fastq.gz"
+        ]
+    },
+    "SRR1589653": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589653_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589653_2.fastq.gz"
+        ]
+    },
+    "SRR1589654": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589654_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589654_2.fastq.gz"
+        ]
+    },
+    "SRR1589655": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589655_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589655_2.fastq.gz"
+        ]
+    },
+    "SRR1589656": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589656_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589656_2.fastq.gz"
+        ]
+    },
+    "SRR1589657": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589657_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589657_2.fastq.gz"
+        ]
+    },
+    "SRR1589658": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589658_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589658_2.fastq.gz"
+        ]
+    },
+    "SRR1589659": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589659_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589659_2.fastq.gz"
+        ]
+    },
+    "SRR1589660": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589660_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589660_2.fastq.gz"
+        ]
+    },
+    "SRR1589661": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589661_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589661_2.fastq.gz"
+        ]
+    },
+    "SRR1589662": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589662_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589662_2.fastq.gz"
+        ]
+    },
+    "SRR1589663": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589663_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589663_2.fastq.gz"
+        ]
+    },
+    "SRR1589664": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589664_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589664_2.fastq.gz"
+        ]
+    },
+    "SRR1589665": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589665_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589665_2.fastq.gz"
+        ]
+    },
+    "SRR1589666": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589666_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589666_2.fastq.gz"
+        ]
+    },
+    "SRR1589667": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589667_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589667_2.fastq.gz"
+        ]
+    },
+    "SRR1589668": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589668_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589668_2.fastq.gz"
+        ]
+    },
+    "SRR1589669": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589669_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589669_2.fastq.gz"
+        ]
+    },
+    "SRR1589670": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589670_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589670_2.fastq.gz"
+        ]
+    },
+    "SRR1589671": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589671_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589671_2.fastq.gz"
+        ]
+    },
+    "SRR1589672": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589672_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589672_2.fastq.gz"
+        ]
+    },
+    "SRR1589673": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589673_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589673_2.fastq.gz"
+        ]
+    },
+    "SRR1589674": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589674_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589674_2.fastq.gz"
+        ]
+    },
+    "SRR1589675": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589675_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589675_2.fastq.gz"
+        ]
+    },
+    "SRR1589676": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589676_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589676_2.fastq.gz"
+        ]
+    },
+    "SRR1589677": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589677_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589677_2.fastq.gz"
+        ]
+    },
+    "SRR1589678": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589678_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589678_2.fastq.gz"
+        ]
+    },
+    "SRR1589679": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589679_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589679_2.fastq.gz"
+        ]
+    },
+    "SRR1589680": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589680_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589680_2.fastq.gz"
+        ]
+    },
+    "SRR1589681": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589681_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589681_2.fastq.gz"
+        ]
+    },
+    "SRR1589682": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589682_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589682_2.fastq.gz"
+        ]
+    },
+    "SRR1589683": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589683_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589683_2.fastq.gz"
+        ]
+    },
+    "SRR1589684": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589684_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589684_2.fastq.gz"
+        ]
+    },
+    "SRR1589685": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589685_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589685_2.fastq.gz"
+        ]
+    },
+    "SRR1589686": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589686_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589686_2.fastq.gz"
+        ]
+    },
+    "SRR1589687": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589687_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1589687_2.fastq.gz"
+        ]
+    },
+    "SRR1588449": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588449_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588449_2.fastq.gz"
+        ]
+    },
+    "SRR1588450": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588450_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588450_2.fastq.gz"
+        ]
+    },
+    "SRR1588451": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588451_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588451_2.fastq.gz"
+        ]
+    },
+    "SRR1588452": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588452_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588452_2.fastq.gz"
+        ]
+    },
+    "SRR1588453": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588453_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588453_2.fastq.gz"
+        ]
+    },
+    "SRR1588454": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588454_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588454_2.fastq.gz"
+        ]
+    },
+    "SRR1588455": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588455_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588455_2.fastq.gz"
+        ]
+    },
+    "SRR1588456": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588456_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588456_2.fastq.gz"
+        ]
+    },
+    "SRR1588457": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588457_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588457_2.fastq.gz"
+        ]
+    },
+    "SRR1588458": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588458_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588458_2.fastq.gz"
+        ]
+    },
+    "SRR1588459": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588459_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588459_2.fastq.gz"
+        ]
+    },
+    "SRR1588460": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588460_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588460_2.fastq.gz"
+        ]
+    },
+    "SRR1588461": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588461_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588461_2.fastq.gz"
+        ]
+    },
+    "SRR1588462": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588462_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588462_2.fastq.gz"
+        ]
+    },
+    "SRR1588463": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588463_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588463_2.fastq.gz"
+        ]
+    },
+    "SRR1588464": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588464_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588464_2.fastq.gz"
+        ]
+    },
+    "SRR1588465": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588465_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588465_2.fastq.gz"
+        ]
+    },
+    "SRR1588466": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588466_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588466_2.fastq.gz"
+        ]
+    },
+    "SRR1588467": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588467_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588467_2.fastq.gz"
+        ]
+    },
+    "SRR1588468": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588468_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588468_2.fastq.gz"
+        ]
+    },
+    "SRR1588469": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588469_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588469_2.fastq.gz"
+        ]
+    },
+    "SRR1588470": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588470_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588470_2.fastq.gz"
+        ]
+    },
+    "SRR1588471": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588471_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588471_2.fastq.gz"
+        ]
+    },
+    "SRR1588472": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588472_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588472_2.fastq.gz"
+        ]
+    },
+    "SRR1588473": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588473_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588473_2.fastq.gz"
+        ]
+    },
+    "SRR1588474": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588474_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588474_2.fastq.gz"
+        ]
+    },
+    "SRR1588475": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588475_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588475_2.fastq.gz"
+        ]
+    },
+    "SRR1588476": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588476_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588476_2.fastq.gz"
+        ]
+    },
+    "SRR1588477": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588477_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588477_2.fastq.gz"
+        ]
+    },
+    "SRR1588478": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588478_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588478_2.fastq.gz"
+        ]
+    },
+    "SRR1588571": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588571_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588571_2.fastq.gz"
+        ]
+    },
+    "SRR1588572": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588572_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588572_2.fastq.gz"
+        ]
+    },
+    "SRR1588573": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588573_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588573_2.fastq.gz"
+        ]
+    },
+    "SRR1588574": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588574_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588574_2.fastq.gz"
+        ]
+    },
+    "SRR1588575": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588575_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588575_2.fastq.gz"
+        ]
+    },
+    "SRR1588576": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588576_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588576_2.fastq.gz"
+        ]
+    },
+    "SRR1588577": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588577_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588577_2.fastq.gz"
+        ]
+    },
+    "SRR1588578": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588578_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588578_2.fastq.gz"
+        ]
+    },
+    "SRR1588579": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588579_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588579_2.fastq.gz"
+        ]
+    },
+    "SRR1588580": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588580_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588580_2.fastq.gz"
+        ]
+    },
+    "SRR1588581": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588581_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588581_2.fastq.gz"
+        ]
+    },
+    "SRR1588582": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588582_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588582_2.fastq.gz"
+        ]
+    },
+    "SRR1588583": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588583_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588583_2.fastq.gz"
+        ]
+    },
+    "SRR1588584": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588584_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588584_2.fastq.gz"
+        ]
+    },
+    "SRR1588585": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588585_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588585_2.fastq.gz"
+        ]
+    },
+    "SRR1588586": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588586_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588586_2.fastq.gz"
+        ]
+    },
+    "SRR1588587": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588587_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588587_2.fastq.gz"
+        ]
+    },
+    "SRR1588588": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588588_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588588_2.fastq.gz"
+        ]
+    },
+    "SRR1588589": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588589_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588589_2.fastq.gz"
+        ]
+    },
+    "SRR1588590": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588590_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588590_2.fastq.gz"
+        ]
+    },
+    "SRR1588591": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588591_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588591_2.fastq.gz"
+        ]
+    },
+    "SRR1588592": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588592_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588592_2.fastq.gz"
+        ]
+    },
+    "SRR1588593": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588593_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588593_2.fastq.gz"
+        ]
+    },
+    "SRR1588594": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588594_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588594_2.fastq.gz"
+        ]
+    },
+    "SRR1588595": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588595_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588595_2.fastq.gz"
+        ]
+    },
+    "SRR1588596": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588596_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588596_2.fastq.gz"
+        ]
+    },
+    "SRR1588597": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588597_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588597_2.fastq.gz"
+        ]
+    },
+    "SRR1588598": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588598_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588598_2.fastq.gz"
+        ]
+    },
+    "SRR1588599": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588599_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588599_2.fastq.gz"
+        ]
+    },
+    "SRR1588600": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588600_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1588600_2.fastq.gz"
+        ]
+    },
+    "SRR1685734": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1685734_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1685734_2.fastq.gz"
+        ]
+    },
+    "SRR1705624": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1705624_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1705624_2.fastq.gz"
+        ]
+    },
+    "SRR1707400": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707400_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707400_2.fastq.gz"
+        ]
+    },
+    "SRR1707403": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707403_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707403_2.fastq.gz"
+        ]
+    },
+    "SRR1707410": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707410_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707410_2.fastq.gz"
+        ]
+    },
+    "SRR1707630": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707630_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707630_2.fastq.gz"
+        ]
+    },
+    "SRR1707631": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707631_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707631_2.fastq.gz"
+        ]
+    },
+    "SRR1707632": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707632_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707632_2.fastq.gz"
+        ]
+    },
+    "SRR1707633": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707633_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR1707633_2.fastq.gz"
+        ]
+    },
+    "SRR3350449": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350449_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350449_2.fastq.gz"
+        ]
+    },
+    "SRR3350450": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350450_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350450_2.fastq.gz"
+        ]
+    },
+    "SRR3350451": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350451_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350451_2.fastq.gz"
+        ]
+    },
+    "SRR3350452": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350452_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350452_2.fastq.gz"
+        ]
+    },
+    "SRR3350453": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350453_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350453_2.fastq.gz"
+        ]
+    },
+    "SRR3350454": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350454_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350454_2.fastq.gz"
+        ]
+    },
+    "SRR3350455": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350455_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350455_2.fastq.gz"
+        ]
+    },
+    "SRR3350456": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350456_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350456_2.fastq.gz"
+        ]
+    },
+    "SRR3350457": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350457_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350457_2.fastq.gz"
+        ]
+    },
+    "SRR3350458": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350458_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350458_2.fastq.gz"
+        ]
+    },
+    "SRR3350459": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350459_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350459_2.fastq.gz"
+        ]
+    },
+    "SRR3350460": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350460_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR3350460_2.fastq.gz"
+        ]
+    },
+    "SRR7495388": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR7495388_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR7495388_2.fastq.gz"
+        ]
+    },
+    "SRR5829497": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829497_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829497_2.fastq.gz"
+        ]
+    },
+    "SRR5829483": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829483_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829483_2.fastq.gz"
+        ]
+    },
+    "SRR5829494": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829494_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829494_2.fastq.gz"
+        ]
+    },
+    "SRR5829499": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829499_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829499_2.fastq.gz"
+        ]
+    },
+    "SRR5829486": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829486_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829486_2.fastq.gz"
+        ]
+    },
+    "SRR5829498": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829498_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829498_2.fastq.gz"
+        ]
+    },
+    "SRR5829487": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829487_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829487_2.fastq.gz"
+        ]
+    },
+    "SRR5829492": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829492_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829492_2.fastq.gz"
+        ]
+    },
+    "SRR5829491": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829491_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829491_2.fastq.gz"
+        ]
+    },
+    "SRR5829484": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829484_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829484_2.fastq.gz"
+        ]
+    },
+    "SRR5829495": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829495_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829495_2.fastq.gz"
+        ]
+    },
+    "SRR5829493": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829493_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829493_2.fastq.gz"
+        ]
+    },
+    "SRR5829490": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829490_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829490_2.fastq.gz"
+        ]
+    },
+    "SRR5829488": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829488_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829488_2.fastq.gz"
+        ]
+    },
+    "SRR5829496": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829496_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829496_2.fastq.gz"
+        ]
+    },
+    "SRR5829485": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829485_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829485_2.fastq.gz"
+        ]
+    },
+    "SRR5829489": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829489_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5829489_2.fastq.gz"
+        ]
+    },
+    "SRR5905104": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5905104_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5905104_2.fastq.gz"
+        ]
+    },
+    "SRR5905103": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5905103_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5905103_2.fastq.gz"
+        ]
+    },
+    "SRR5905102": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5905102_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5905102_2.fastq.gz"
+        ]
+    },
+    "SRR5905101": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5905101_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5905101_2.fastq.gz"
+        ]
+    },
+    "SRR5905096": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5905096_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5905096_2.fastq.gz"
+        ]
+    },
+    "SRR5905095": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5905095_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5905095_2.fastq.gz"
+        ]
+    },
+    "SRR5949710": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5949710_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5949710_2.fastq.gz"
+        ]
+    },
+    "SRR5949709": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5949709_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5949709_2.fastq.gz"
+        ]
+    },
+    "SRR5949708": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5949708_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5949708_2.fastq.gz"
+        ]
+    },
+    "SRR5949707": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5949707_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR5949707_2.fastq.gz"
+        ]
+    },
+    "SRR6257601": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257601_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257601_2.fastq.gz"
+        ]
+    },
+    "SRR6257659": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257659_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257659_2.fastq.gz"
+        ]
+    },
+    "SRR6257597": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257597_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257597_2.fastq.gz"
+        ]
+    },
+    "SRR6257658": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257658_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257658_2.fastq.gz"
+        ]
+    },
+    "SRR6257555": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257555_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257555_2.fastq.gz"
+        ]
+    },
+    "SRR6257660": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257660_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257660_2.fastq.gz"
+        ]
+    },
+    "SRR6257557": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257557_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257557_2.fastq.gz"
+        ]
+    },
+    "SRR6257640": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257640_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257640_2.fastq.gz"
+        ]
+    },
+    "SRR6257568": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257568_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257568_2.fastq.gz"
+        ]
+    },
+    "SRR6257641": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257641_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257641_2.fastq.gz"
+        ]
+    },
+    "SRR6257565": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257565_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257565_2.fastq.gz"
+        ]
+    },
+    "SRR6257638": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257638_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257638_2.fastq.gz"
+        ]
+    },
+    "SRR6257569": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257569_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257569_2.fastq.gz"
+        ]
+    },
+    "SRR6257662": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257662_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257662_2.fastq.gz"
+        ]
+    },
+    "SRR6257581": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257581_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257581_2.fastq.gz"
+        ]
+    },
+    "SRR6257664": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257664_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257664_2.fastq.gz"
+        ]
+    },
+    "SRR6257590": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257590_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257590_2.fastq.gz"
+        ]
+    },
+    "SRR6257663": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257663_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257663_2.fastq.gz"
+        ]
+    },
+    "SRR6257579": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257579_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257579_2.fastq.gz"
+        ]
+    },
+    "SRR6257665": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257665_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257665_2.fastq.gz"
+        ]
+    },
+    "SRR6257577": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257577_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257577_2.fastq.gz"
+        ]
+    },
+    "SRR6257614": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257614_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257614_2.fastq.gz"
+        ]
+    },
+    "SRR6257580": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257580_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257580_2.fastq.gz"
+        ]
+    },
+    "SRR6257657": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257657_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257657_2.fastq.gz"
+        ]
+    },
+    "SRR6257572": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257572_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257572_2.fastq.gz"
+        ]
+    },
+    "SRR6257656": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257656_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257656_2.fastq.gz"
+        ]
+    },
+    "SRR6257594": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257594_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257594_2.fastq.gz"
+        ]
+    },
+    "SRR6257643": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257643_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257643_2.fastq.gz"
+        ]
+    },
+    "SRR6257593": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257593_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257593_2.fastq.gz"
+        ]
+    },
+    "SRR6257642": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257642_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257642_2.fastq.gz"
+        ]
+    },
+    "SRR6257570": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257570_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257570_2.fastq.gz"
+        ]
+    },
+    "SRR6257625": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257625_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257625_2.fastq.gz"
+        ]
+    },
+    "SRR6257575": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257575_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257575_2.fastq.gz"
+        ]
+    },
+    "SRR6257624": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257624_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257624_2.fastq.gz"
+        ]
+    },
+    "SRR6257588": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257588_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257588_2.fastq.gz"
+        ]
+    },
+    "SRR6257639": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257639_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257639_2.fastq.gz"
+        ]
+    },
+    "SRR6257606": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257606_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257606_2.fastq.gz"
+        ]
+    },
+    "SRR6257623": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257623_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257623_2.fastq.gz"
+        ]
+    },
+    "SRR6257605": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257605_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257605_2.fastq.gz"
+        ]
+    },
+    "SRR6257615": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257615_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257615_2.fastq.gz"
+        ]
+    },
+    "SRR6257574": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257574_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257574_2.fastq.gz"
+        ]
+    },
+    "SRR6257661": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257661_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257661_2.fastq.gz"
+        ]
+    },
+    "SRR6257573": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257573_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257573_2.fastq.gz"
+        ]
+    },
+    "SRR6257637": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257637_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257637_2.fastq.gz"
+        ]
+    },
+    "SRR6257602": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257602_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257602_2.fastq.gz"
+        ]
+    },
+    "SRR6257645": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257645_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257645_2.fastq.gz"
+        ]
+    },
+    "SRR6257598": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257598_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257598_2.fastq.gz"
+        ]
+    },
+    "SRR6257635": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257635_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257635_2.fastq.gz"
+        ]
+    },
+    "SRR6257595": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257595_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257595_2.fastq.gz"
+        ]
+    },
+    "SRR6257630": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257630_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257630_2.fastq.gz"
+        ]
+    },
+    "SRR6257596": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257596_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257596_2.fastq.gz"
+        ]
+    },
+    "SRR6257631": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257631_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257631_2.fastq.gz"
+        ]
+    },
+    "SRR6257591": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257591_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257591_2.fastq.gz"
+        ]
+    },
+    "SRR6257632": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257632_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257632_2.fastq.gz"
+        ]
+    },
+    "SRR6257589": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257589_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257589_2.fastq.gz"
+        ]
+    },
+    "SRR6257627": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257627_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257627_2.fastq.gz"
+        ]
+    },
+    "SRR6257571": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257571_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257571_2.fastq.gz"
+        ]
+    },
+    "SRR6257622": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257622_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257622_2.fastq.gz"
+        ]
+    },
+    "SRR6257562": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257562_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257562_2.fastq.gz"
+        ]
+    },
+    "SRR6257654": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257654_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257654_2.fastq.gz"
+        ]
+    },
+    "SRR6257586": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257586_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257586_2.fastq.gz"
+        ]
+    },
+    "SRR6257653": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257653_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257653_2.fastq.gz"
+        ]
+    },
+    "SRR6257576": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257576_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257576_2.fastq.gz"
+        ]
+    },
+    "SRR6257646": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257646_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257646_2.fastq.gz"
+        ]
+    },
+    "SRR6257587": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257587_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257587_2.fastq.gz"
+        ]
+    },
+    "SRR6257648": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257648_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257648_2.fastq.gz"
+        ]
+    },
+    "SRR6257578": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257578_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257578_2.fastq.gz"
+        ]
+    },
+    "SRR6257647": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257647_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257647_2.fastq.gz"
+        ]
+    },
+    "SRR6257607": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257607_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257607_2.fastq.gz"
+        ]
+    },
+    "SRR6257650": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257650_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257650_2.fastq.gz"
+        ]
+    },
+    "SRR6257603": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257603_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257603_2.fastq.gz"
+        ]
+    },
+    "SRR6257649": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257649_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257649_2.fastq.gz"
+        ]
+    },
+    "SRR6257604": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257604_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257604_2.fastq.gz"
+        ]
+    },
+    "SRR6257626": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257626_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257626_2.fastq.gz"
+        ]
+    },
+    "SRR6257560": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257560_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257560_2.fastq.gz"
+        ]
+    },
+    "SRR6257621": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257621_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257621_2.fastq.gz"
+        ]
+    },
+    "SRR6257554": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257554_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257554_2.fastq.gz"
+        ]
+    },
+    "SRR6257616": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257616_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257616_2.fastq.gz"
+        ]
+    },
+    "SRR6257561": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257561_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257561_2.fastq.gz"
+        ]
+    },
+    "SRR6257634": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257634_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257634_2.fastq.gz"
+        ]
+    },
+    "SRR6257585": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257585_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257585_2.fastq.gz"
+        ]
+    },
+    "SRR6257667": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257667_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257667_2.fastq.gz"
+        ]
+    },
+    "SRR6257584": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257584_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257584_2.fastq.gz"
+        ]
+    },
+    "SRR6257652": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257652_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257652_2.fastq.gz"
+        ]
+    },
+    "SRR6257583": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257583_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257583_2.fastq.gz"
+        ]
+    },
+    "SRR6257651": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257651_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257651_2.fastq.gz"
+        ]
+    },
+    "SRR6257559": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257559_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257559_2.fastq.gz"
+        ]
+    },
+    "SRR6257636": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257636_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257636_2.fastq.gz"
+        ]
+    },
+    "SRR6257558": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257558_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257558_2.fastq.gz"
+        ]
+    },
+    "SRR6257620": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257620_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257620_2.fastq.gz"
+        ]
+    },
+    "SRR6257599": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257599_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257599_2.fastq.gz"
+        ]
+    },
+    "SRR6257619": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257619_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257619_2.fastq.gz"
+        ]
+    },
+    "SRR6257592": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257592_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257592_2.fastq.gz"
+        ]
+    },
+    "SRR6257617": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257617_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257617_2.fastq.gz"
+        ]
+    },
+    "SRR6257600": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257600_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257600_2.fastq.gz"
+        ]
+    },
+    "SRR6257618": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257618_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257618_2.fastq.gz"
+        ]
+    },
+    "SRR6257556": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257556_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257556_2.fastq.gz"
+        ]
+    },
+    "SRR6257628": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257628_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257628_2.fastq.gz"
+        ]
+    },
+    "SRR6257563": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257563_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257563_2.fastq.gz"
+        ]
+    },
+    "SRR6257629": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257629_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257629_2.fastq.gz"
+        ]
+    },
+    "SRR6257564": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257564_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257564_2.fastq.gz"
+        ]
+    },
+    "SRR6257633": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257633_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257633_2.fastq.gz"
+        ]
+    },
+    "SRR6257566": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257566_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257566_2.fastq.gz"
+        ]
+    },
+    "SRR6257655": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257655_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257655_2.fastq.gz"
+        ]
+    },
+    "SRR6257567": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257567_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257567_2.fastq.gz"
+        ]
+    },
+    "SRR6257666": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257666_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257666_2.fastq.gz"
+        ]
+    },
+    "SRR6257582": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257582_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257582_2.fastq.gz"
+        ]
+    },
+    "SRR6257644": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257644_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR6257644_2.fastq.gz"
+        ]
+    },
+    "SRR8264662": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR8264662_1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/ENA/fastq/SRR8264662_2.fastq.gz"
+        ]
+    },
+    "1-W3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/1-W3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/1-W3_R2.fastq.gz"
+        ]
+    },
+    "2-W3-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/2-W3-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/2-W3-2_R2.fastq.gz"
+        ]
+    },
+    "3-W3-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/3-W3-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/3-W3-3_R2.fastq.gz"
+        ]
+    },
+    "4-D3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/4-D3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/4-D3_R2.fastq.gz"
+        ]
+    },
+    "5-D3-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/5-D3-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/5-D3-2_R2.fastq.gz"
+        ]
+    },
+    "6-D3-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/6-D3-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/6-D3-3_R2.fastq.gz"
+        ]
+    },
+    "7-LO3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/7-LO3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/7-LO3_R2.fastq.gz"
+        ]
+    },
+    "8-LO3-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/8-LO3-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/8-LO3-2_R2.fastq.gz"
+        ]
+    },
+    "9-LO3-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/9-LO3-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/9-LO3-3_R2.fastq.gz"
+        ]
+    },
+    "10-LG3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/10-LG3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/10-LG3_R2.fastq.gz"
+        ]
+    },
+    "11-LG3-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/11-LG3-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/11-LG3-2_R2.fastq.gz"
+        ]
+    },
+    "12-LG3-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/12-LG3-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/12-LG3-3_R2.fastq.gz"
+        ]
+    },
+    "13-1-3-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/13-1-3-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/13-1-3-2_R2.fastq.gz"
+        ]
+    },
+    "14-1-3-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/14-1-3-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/14-1-3-3_R2.fastq.gz"
+        ]
+    },
+    "15-W5": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/15-W5_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/15-W5_R2.fastq.gz"
+        ]
+    },
+    "16-W5-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/16-W5-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/16-W5-2_R2.fastq.gz"
+        ]
+    },
+    "17-W5-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/17-W5-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/17-W5-3_R2.fastq.gz"
+        ]
+    },
+    "18-D5": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/18-D5_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/18-D5_R2.fastq.gz"
+        ]
+    },
+    "19-D5-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/19-D5-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/19-D5-2_R2.fastq.gz"
+        ]
+    },
+    "20-D5-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/20-D5-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/20-D5-3_R2.fastq.gz"
+        ]
+    },
+    "21-LO5": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/21-LO5_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/21-LO5_R2.fastq.gz"
+        ]
+    },
+    "22-LO5-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/22-LO5-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/22-LO5-2_R2.fastq.gz"
+        ]
+    },
+    "23-LO5-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/23-LO5-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/23-LO5-3_R2.fastq.gz"
+        ]
+    },
+    "24-LG5": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/24-LG5_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/24-LG5_R2.fastq.gz"
+        ]
+    },
+    "25-LG5-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/25-LG5-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/25-LG5-2_R2.fastq.gz"
+        ]
+    },
+    "26-LG5-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/26-LG5-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/26-LG5-3_R2.fastq.gz"
+        ]
+    },
+    "27-1-5": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/27-1-5_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/27-1-5_R2.fastq.gz"
+        ]
+    },
+    "28-1-5-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/28-1-5-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/28-1-5-2_R2.fastq.gz"
+        ]
+    },
+    "29-1-5-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/29-1-5-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/29-1-5-3_R2.fastq.gz"
+        ]
+    },
+    "30-W9": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/30-W9_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/30-W9_R2.fastq.gz"
+        ]
+    },
+    "31-W9-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/31-W9-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/31-W9-2_R2.fastq.gz"
+        ]
+    },
+    "32-W9-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/32-W9-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/32-W9-3_R2.fastq.gz"
+        ]
+    },
+    "33-D9": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/33-D9_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/33-D9_R2.fastq.gz"
+        ]
+    },
+    "34-D9-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/34-D9-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/34-D9-2_R2.fastq.gz"
+        ]
+    },
+    "35-D9-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/35-D9-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/35-D9-3_R2.fastq.gz"
+        ]
+    },
+    "36-LO9": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/36-LO9_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/36-LO9_R2.fastq.gz"
+        ]
+    },
+    "37-LO9-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/37-LO9-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/37-LO9-2_R2.fastq.gz"
+        ]
+    },
+    "38-LO9-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/38-LO9-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/38-LO9-3_R2.fastq.gz"
+        ]
+    },
+    "39-LG9": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/39-LG9_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/39-LG9_R2.fastq.gz"
+        ]
+    },
+    "40-LG9-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/40-LG9-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/40-LG9-2_R2.fastq.gz"
+        ]
+    },
+    "41-LG9-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/41-LG9-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/41-LG9-3_R2.fastq.gz"
+        ]
+    },
+    "42-1-9": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/42-1-9_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/42-1-9_R2.fastq.gz"
+        ]
+    },
+    "43-1-9-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/43-1-9-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/43-1-9-2_R2.fastq.gz"
+        ]
+    },
+    "44-1-9-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/44-1-9-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/44-1-9-3_R2.fastq.gz"
+        ]
+    },
+    "45-W12": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/45-W12_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/45-W12_R2.fastq.gz"
+        ]
+    },
+    "46-W12-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/46-W12-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/46-W12-2_R2.fastq.gz"
+        ]
+    },
+    "47-W12-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/47-W12-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/47-W12-3_R2.fastq.gz"
+        ]
+    },
+    "48-D12": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/48-D12_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/48-D12_R2.fastq.gz"
+        ]
+    },
+    "49-D12-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/49-D12-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/49-D12-2_R2.fastq.gz"
+        ]
+    },
+    "50-D12-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/50-D12-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/50-D12-3_R2.fastq.gz"
+        ]
+    },
+    "51-LO12": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/51-LO12_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/51-LO12_R2.fastq.gz"
+        ]
+    },
+    "52-LO12-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/52-LO12-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/52-LO12-2_R2.fastq.gz"
+        ]
+    },
+    "53-LO12-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/53-LO12-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/53-LO12-3_R2.fastq.gz"
+        ]
+    },
+    "54-LG12": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/54-LG12_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/54-LG12_R2.fastq.gz"
+        ]
+    },
+    "55-LG12-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/55-LG12-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/55-LG12-2_R2.fastq.gz"
+        ]
+    },
+    "56-LG12-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/56-LG12-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/56-LG12-3_R2.fastq.gz"
+        ]
+    },
+    "57-1-12": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/57-1-12_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/57-1-12_R2.fastq.gz"
+        ]
+    },
+    "58-1-12-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/58-1-12-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/58-1-12-2_R2.fastq.gz"
+        ]
+    },
+    "59-1-12-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/59-1-12-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/59-1-12-3_R2.fastq.gz"
+        ]
+    },
+    "60-W14": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/60-W14_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/60-W14_R2.fastq.gz"
+        ]
+    },
+    "61-W14-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/61-W14-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/61-W14-2_R2.fastq.gz"
+        ]
+    },
+    "62-W14-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/62-W14-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/62-W14-3_R2.fastq.gz"
+        ]
+    },
+    "63-D14": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/63-D14_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/63-D14_R2.fastq.gz"
+        ]
+    },
+    "64-D14-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/64-D14-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/64-D14-2_R2.fastq.gz"
+        ]
+    },
+    "65-D14-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/65-D14-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/65-D14-3_R2.fastq.gz"
+        ]
+    },
+    "66-LO14": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/66-LO14_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/66-LO14_R2.fastq.gz"
+        ]
+    },
+    "67-LO14-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/67-LO14-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/67-LO14-2_R2.fastq.gz"
+        ]
+    },
+    "68-LO14-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/68-LO14-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/68-LO14-3_R2.fastq.gz"
+        ]
+    },
+    "69-LG14": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/69-LG14_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/69-LG14_R2.fastq.gz"
+        ]
+    },
+    "70-LG14-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/70-LG14-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/70-LG14-2_R2.fastq.gz"
+        ]
+    },
+    "71-LG14-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/71-LG14-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/71-LG14-3_R2.fastq.gz"
+        ]
+    },
+    "72-1-14": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/72-1-14_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/72-1-14_R2.fastq.gz"
+        ]
+    },
+    "73-1-14-2": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/73-1-14-2_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/73-1-14-2_R2.fastq.gz"
+        ]
+    },
+    "74-1-14-3": {
+        "R1": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/74-1-14-3_R1.fastq.gz"
+        ],
+        "R2": [
+            "/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/our_data/74-1-14-3_R2.fastq.gz"
         ]
     }
 }

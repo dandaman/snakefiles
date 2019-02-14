@@ -1,5 +1,5 @@
 # Path to an uncompressed FASTA file with all transcript sequences.
-CDNA: 'data/transcriptome/Homo_sapiens.GRCh38.cdna.all.fa'
+CDNA: '/nfs/pgsb/projects/Olsen_DEK1/results/global_approach/kallisto/data/cosmoss_V3.3.non_redundant_transcriptome.fasta'
 
 # Path to a folder where intermediate files will be written.
 OUT_DIR: 'kallisto'

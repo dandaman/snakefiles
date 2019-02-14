@@ -1,9 +1,9 @@
 # Quantify transcript expression in paired-end RNA-seq data with kallisto
 -----------------------------------------------------------------------
-Initiall written by Kamil Slowikowski
+Initially written by Kamil Slowikowski
 https://github.com/slowkow/snakefiles
 
-Adapted by Daniel Lang
+Adapted by [Daniel Lang](@daniel.lang)
 
 I slightly adapted the worklow and reduced it to Kallisto. Initially for my bioinformatics course at OTHR
 
@@ -33,4 +33,3 @@ snakemake \
   	--jobs 100 \
   	--cluster 'your syntax to submit jobs on the cluster'
 ```
-
