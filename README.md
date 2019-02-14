@@ -5,6 +5,8 @@ https://github.com/slowkow/snakefiles
 
 Adapted by Daniel Lang
 
+I slightly adapted the worklow and reduced it to Kallisto. Initially for my bioinformatics course at OTHR
+
 
 # Requirements:
 
