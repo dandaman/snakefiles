@@ -1,0 +1,8 @@
+# Path to an uncompressed FASTA file with all transcript sequences.
+CDNA: '../data/ensembl/Homo_sapiens.GRCh38.cdna.all.fa'
+
+# Path to a folder where intermediate files will be written.
+OUT_DIR: '.'
+
+# Path to a JSON file with samples and their corresponding FASTQ files.
+SAMPLES_JSON: '../samples.json'
