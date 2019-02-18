@@ -1,0 +1,7 @@
+.snakemake
+abundance.tsv.gz
+benchmarks/
+data/
+kallisto/
+log/
+n_processed.tsv.gz

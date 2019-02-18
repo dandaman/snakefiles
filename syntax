@@ -1,0 +1,1 @@
+snakemake -j 300 --cluster 'qsub -V -cwd -j y -q plant2,plant_wheat -o {log} -e {log} -pe serial {threads}'
